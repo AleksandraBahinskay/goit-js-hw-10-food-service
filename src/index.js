@@ -11,3 +11,4 @@ const markup = menuGallery(menu);
 GalleryRef.insertAdjacentHTML('beforeend', markup);
 
 themeToggle();
+///
